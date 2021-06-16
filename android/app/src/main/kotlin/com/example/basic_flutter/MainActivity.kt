@@ -1,4 +1,4 @@
-package com.example.noa_mobile
+package com.example.basic_flutter
 
 import io.flutter.embedding.android.FlutterActivity
 
